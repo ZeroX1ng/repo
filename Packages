@@ -1,0 +1,41 @@
+Package: github.io.zeroX1ng.cnbigshotjb1
+Version: 0.0.1-48
+Architecture: iphoneos-arm
+Maintainer: ashi
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: debs/github.io.zeroX1ng.cnbigshotjb1_0.0.1-48_iphoneos-arm.deb
+Size: 40392
+MD5sum: c9402d8bc5d54c56619d5e47190d2077
+SHA1: e8728a02a3bf4ffe436dff4879ddb8c145822e22
+SHA256: 07c7afc1b23f9627a30ccea8a69c91ee51822b9e791d2cda7da45ac4f4c61050
+Section: Tweak
+Priority: optional
+Description: 无设置项目，安装完毕在需要截图界面摇一摇直接获得长图！(部分app不支持，如威锋小黑盒等)
+Author: 1
+Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.cnbigshotjb1/
+Icon: https://zerox1ng.github.io/repo/DebIcon.png
+Name: BigShotJb - 摇一摇截长图
+Sileodepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.cnbigshotjb1/
+Sponsor: ashi
+
+Package: github.io.zerox1ng.MiYou
+Version: 3.0-6
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/github.io.zerox1ng.MiYou_3.0-6_iphoneos-arm.deb
+Size: 4435588
+MD5sum: 39831880f303d0088f55177f36c7a65e
+SHA1: 84fa29d5bcd3cdf6452558363a458cc16ff86ff9
+SHA256: 63c3b12fa5adfb20e017c266bdaeee46a44e772a31a7e716a6aa15e3ba4c559e
+Section: Tweak
+Priority: optional
+Description: 微信助手-密友，老猫出品，必属精品。
+Author: Mao
+Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.MiYou/
+Icon: https://zerox1ng.github.io/repo/DebIcon.png
+Name: 微信助手
+Sileodepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.MiYou/
+Sponsor: admin@25mao.com
+
+
