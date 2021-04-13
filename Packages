@@ -4,19 +4,58 @@ Architecture: iphoneos-arm
 Maintainer: ashi
 Depends: firmware (>= 8.0), mobilesubstrate
 Filename: debs/github.io.zeroX1ng.cnbigshotjb1_0.0.1-48_iphoneos-arm.deb
-Size: 40392
-MD5sum: c9402d8bc5d54c56619d5e47190d2077
-SHA1: e8728a02a3bf4ffe436dff4879ddb8c145822e22
-SHA256: 07c7afc1b23f9627a30ccea8a69c91ee51822b9e791d2cda7da45ac4f4c61050
-Section: Tweak
-Priority: optional
+Size: 80562
+MD5sum: 3c01da243536612f00d95bcfb7d12102
+SHA1: f9800a730094315cc25b3e3b7e8ec21dc24c3bda
+SHA256: 64f525db8c1ba378436f9318868497bc9dbdcd26857113359a9ba031b702dc41
+Section: Tweaks
 Description: 无设置项目，安装完毕在需要截图界面摇一摇直接获得长图！(部分app不支持，如威锋小黑盒等)
 Author: 1
 Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.cnbigshotjb1/
 Icon: https://zerox1ng.github.io/repo/DebIcon.png
 Name: BigShotJb - 摇一摇截长图
-Sileodepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.cnbigshotjb1/
+Priority: optional
+SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.cnbigshotjb1/
 Sponsor: ashi
+
+Package: github.io.zerox1ng.filza
+Version: 3.8.2-4k
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: debs/github.io.zerox1ng.filza_3.8.2-4k_iphoneos-arm.deb
+Size: 13018522
+MD5sum: 4f6a42a9b6476affdce5ff0163750d99
+SHA1: b36f6c59b48facbfa0bdd8436f93dc5c6cb83a3e
+SHA256: 9d6cf7e80ad7a8382cf9a11e2f5004097717a34278779dd6db653a693cc6f9f1
+Section: Tweaks
+Description: iOS 用文件管理器
+Author: TIGI Software
+Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.filza/
+Icon: https://zerox1ng.github.io/repo/DebIcon.png
+Installed-Size: 28513
+Name: Filza File Manager
+SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.filza/
+
+Package: github.io.zerox1ng.h2
+Version: 3.8.1
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Depends: mobilesubstrate, preferenceloader, applist, com.creaturecoding.libcspreferences
+Filename: debs/github.io.zerox1ng.h2_3.8.1_iphoneos-arm.deb
+Size: 468164
+MD5sum: a4603b213f519ef48e7be05368ded93a
+SHA1: 8ffcb7ee6d06b065553f1e6310c9f47b22490b85
+SHA256: 14c7d4801c0b9e0934db40981d7edf7e7a363cc2aa0115013a0dd48f386b2849
+Section: Tweaks
+Description: h2不止是北半球最好用的手势，在全面屏上更是一把无情且强大的猪肉刀。全面兼容iOS(13-14),全面兼容iphone（6s-12pro max）3.8是目前为止最牛逼的版本！
+Author: lzsxcl
+Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.h2/
+Icon: https://zerox1ng.github.io/repo/DebIcon.png
+Installed-Size: 1992
+Name: h2
+SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.h2/
 
 Package: github.io.zerox1ng.MiYou
 Version: 3.0-6
@@ -24,18 +63,17 @@ Architecture: iphoneos-arm
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/github.io.zerox1ng.MiYou_3.0-6_iphoneos-arm.deb
-Size: 4435588
-MD5sum: 39831880f303d0088f55177f36c7a65e
-SHA1: 84fa29d5bcd3cdf6452558363a458cc16ff86ff9
-SHA256: 63c3b12fa5adfb20e017c266bdaeee46a44e772a31a7e716a6aa15e3ba4c559e
-Section: Tweak
-Priority: optional
+Size: 8852336
+MD5sum: 6ad72063be649ca7d70ae1e69918907d
+SHA1: 1625e7477fcc2639700ae72dab61d0920143783b
+SHA256: a1a093e40f6904c8ca6de6cad3b75c84f1d3cd600db7e6201b074683989f1bed
+Section: Tweaks
 Description: 微信助手-密友，老猫出品，必属精品。
 Author: Mao
 Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.MiYou/
 Icon: https://zerox1ng.github.io/repo/DebIcon.png
 Name: 微信助手
-Sileodepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.MiYou/
+Priority: optional
+SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.MiYou/
 Sponsor: admin@25mao.com
-
 
