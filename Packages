@@ -18,26 +18,6 @@ Priority: optional
 SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.cnbigshotjb1/
 Sponsor: ashi
 
-Package: github.io.zerox1ng.filza
-Version: 3.8.2-4k
-Architecture: iphoneos-arm
-Maintainer: ReJail <rejail@rejail.ru>
-Depends: zip, unzip, gzip, unrar, p7zip
-Conflicts: com.tigisoftware.filza64bit
-Filename: debs/github.io.zerox1ng.filza_3.8.2-4k_iphoneos-arm.deb
-Size: 13018522
-MD5sum: 4f6a42a9b6476affdce5ff0163750d99
-SHA1: b36f6c59b48facbfa0bdd8436f93dc5c6cb83a3e
-SHA256: 9d6cf7e80ad7a8382cf9a11e2f5004097717a34278779dd6db653a693cc6f9f1
-Section: Tweaks
-Description: iOS 用文件管理器
-Author: TIGI Software
-Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.filza/
-Icon: https://zerox1ng.github.io/repo/DebIcon.png
-Installed-Size: 28513
-Name: Filza File Manager
-SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.filza/
-
 Package: github.io.zerox1ng.h2
 Version: 3.8.1
 Architecture: iphoneos-arm
@@ -76,4 +56,23 @@ Name: 微信助手
 Priority: optional
 SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.MiYou/
 Sponsor: admin@25mao.com
+
+Package: ru.rejail.filza
+Version: 3.8.2-4k
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: debs/ru.rejail.filza_3.8.2-4k_iphoneos-arm.deb
+Size: 10203420
+MD5sum: 3b96aecda8c081dc1f4d48441a1c92c2
+SHA1: d9cfced4fcc7fb3221d5187ddd010ab74145c2ab
+SHA256: 8611d8e3aeda78f4c0e70561cddbf5a630c35b79e45dac4ddf6a951f4cbb3f6e
+Section: Utilities
+Description: Файловый менеджер для iOS
+Author: TIGI Software
+Depiction: https://rejail.ru/depiction.php?file=filza
+Installed-Size: 28513
+Name: Filza File Manager
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=filza
 
