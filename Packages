@@ -18,6 +18,25 @@ Priority: optional
 SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.cnbigshotjb1/
 Sponsor: ashi
 
+Package: github.io.zerox1ng.cydown
+Version: 7.0.6
+Architecture: iphoneos-arm
+Maintainer: Xing
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: debs/github.io.zerox1ng.cydown_7.0.6_iphoneos-arm.deb
+Size: 4013336
+MD5sum: fcffd42547a805a750108d0549420b55
+SHA1: badf6381dcf22fd6cdf4c9d0b8059a9f401add84
+SHA256: 59bbb64f2345028203f781fb460bc1c99d3522a0448eafbfcf0b953d27258e35
+Section: Tweaks
+Description: Cydown自用版本，搭配斑马1.0.8。已去除更新提示
+Author: julioverne
+Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.Cydown/
+Icon: https://zerox1ng.github.io/repo/DebIcon.png
+Name: CyDown
+Priority: optional
+SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.Cydown/
+
 Package: github.io.zerox1ng.h2
 Version: 3.8.1
 Architecture: iphoneos-arm
