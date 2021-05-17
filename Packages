@@ -57,6 +57,52 @@ Priority: optional
 SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.MiYou/
 Sponsor: admin@25mao.com
 
+Package: github.io.zerox1ng.Wechat-Old
+Version: 1.5.9-6
+Architecture: iphoneos-arm
+Maintainer: Jan
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Filename: debs/github.io.zerox1ng.Wechat-Old_1.5.9-6_iphoneos-arm.deb
+Size: 2032630
+MD5sum: 3624cf2961e63a51b10e943cbc376cfd
+SHA1: 2d55895e141c56bcb010a9dce506f84a6af69616
+SHA256: 9dcfc6449dc683556c919d38e1acce9608407ec5eb59433d05be7981de415740
+Section: Tweaks
+Description: 文字转语音，语音包，朋友圈转发微信插件
+Author: Jan
+Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.Wechat/
+Homepage: 
+Icon: https://zerox1ng.github.io/repo/DebIcon.png
+Name: Wechat-Old
+Priority: optional
+SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.Wechat/
+dev: 
+
+Package: github.io.zerox1ng.wechat
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Jan<237523005@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Filename: debs/github.io.zerox1ng.wechat_1.0.1_iphoneos-arm.deb
+Size: 6793518
+MD5sum: dd64d65140857f080a37e663ba367305
+SHA1: a378c8b4393188b02e24a424088a0ca7685d7a54
+SHA256: 6da2f2cfbf14b6cba2d68865fa0a72b0166df68bc84cccf62f07d54a3a6a36c7
+Section: Tweaks
+Description: Wechat的全新重制版本
+Author: Jan
+Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.Wechat/
+Homepage: 
+Icon: https://zerox1ng.github.io/repo/DebIcon.png
+Name: WeChat
+Priority: optional
+SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.Wechat/
+dev: 
+
 Package: ru.rejail.filza
 Version: 3.8.2-4k
 Architecture: iphoneos-arm
