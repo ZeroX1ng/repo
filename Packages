@@ -18,22 +18,41 @@ Priority: optional
 SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.cnbigshotjb1/
 Sponsor: ashi
 
+Package: github.io.zerox1ng.cydown
+Version: 7.0.6
+Architecture: iphoneos-arm
+Maintainer: Xing
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: debs/github.io.zerox1ng.cydown_7.0.6_iphoneos-arm.deb
+Size: 4013336
+MD5sum: fcffd42547a805a750108d0549420b55
+SHA1: badf6381dcf22fd6cdf4c9d0b8059a9f401add84
+SHA256: 59bbb64f2345028203f781fb460bc1c99d3522a0448eafbfcf0b953d27258e35
+Section: Tweaks
+Description: Cydown自用版本，搭配斑马1.0.8。已去除更新提示
+Author: julioverne
+Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.Cydown/
+Icon: https://zerox1ng.github.io/repo/DebIcon.png
+Name: CyDown
+Priority: optional
+SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.Cydown/
+
 Package: github.io.zerox1ng.h2
-Version: 3.8.1
+Version: 4.5.2
 Architecture: iphoneos-arm
 Maintainer: lzsxcl
-Depends: mobilesubstrate, preferenceloader, applist, com.creaturecoding.libcspreferences
-Filename: debs/github.io.zerox1ng.h2_3.8.1_iphoneos-arm.deb
-Size: 468164
-MD5sum: a4603b213f519ef48e7be05368ded93a
-SHA1: 8ffcb7ee6d06b065553f1e6310c9f47b22490b85
-SHA256: 14c7d4801c0b9e0934db40981d7edf7e7a363cc2aa0115013a0dd48f386b2849
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, com.creaturecoding.libcspreferences, com.spark.libsparkcolourpicker
+Filename: debs/github.io.zerox1ng.h2_4.5.2_iphoneos-arm.deb
+Size: 721238
+MD5sum: b3c170ecd5492b9f5e90e6ea812458af
+SHA1: de29ff75512c3de2fc43529bb1185c7d4c22acfb
+SHA256: 72815930c6a4fba171b6c553cc7b5cc3f31a5ec6880d168e8cbda913b2d6d13c
 Section: Tweaks
-Description: h2不止是北半球最好用的手势，在全面屏上更是一把无情且强大的猪肉刀。全面兼容iOS(13-14),全面兼容iphone（6s-12pro max）3.8是目前为止最牛逼的版本！
+Description: 💌隐私空间应用加密 💌防误触手势 💌h2Arc 💌右侧返回手势 💌状态栏自定义 💌网速 💌天气 💌免密码注销 💌上滑切换输入法 💌后台自定义 💌后台一键清理 💌锁屏自定义 💌光线传感器 💌快捷按压 💌电话帮手 💌微信助手 💌应用键盘高度 💌舒适流程胡动画 💌图标隐藏等一系列功能超实用功能 无论在全面屏还是非全面屏上，h2都是北半球最好用的手势，更是一把无情且强大的猪肉刀。全面兼容iOS(13-14),全面兼容iphone（6s-12pro max）
 Author: lzsxcl
 Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.h2/
 Icon: https://zerox1ng.github.io/repo/DebIcon.png
-Installed-Size: 1992
+Installed-Size: 2600
 Name: h2
 SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.h2/
 
