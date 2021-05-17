@@ -1,3 +1,23 @@
+Package: com.jontelang.snapper2.packix
+Version: 2.5.11
+Architecture: iphoneos-arm
+Maintainer: Jonathan Winger-lang
+Depends: mobilesubstrate, firmware(>=12.1)
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Filename: debs/com.jontelang.snapper2.packix_2.5.11_iphoneos-arm.deb
+Size: 533640
+MD5sum: d47b733988f3a6567118654fa26a9bf5
+SHA1: d0bcd1e8a6e966664a3dad3406fe1ac01d232f56
+SHA256: 8793943b4514117763918e2799310ce60ad0f4c2da8440f0c6373d0d62fe20f6
+Section: Tweaks
+Description: Pin screenshots on the screen.
+Author: Jonathan Winger-lang
+Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.snapper2/
+Icon: https://zerox1ng.github.io/repo/DebIcon.png
+Installed-Size: 1840
+Name: Snapper 2
+SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.snapper2/
+
 Package: github.io.zeroX1ng.cnbigshotjb1
 Version: 0.0.1-48
 Architecture: iphoneos-arm
@@ -38,21 +58,30 @@ Priority: optional
 SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.Cydown/
 
 Package: github.io.zerox1ng.h2
-Version: 4.5.2
+Version: 4.5.4
 Architecture: iphoneos-arm
 Maintainer: lzsxcl
-Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, com.creaturecoding.libcspreferences, com.spark.libsparkcolourpicker
-Filename: debs/github.io.zerox1ng.h2_4.5.2_iphoneos-arm.deb
-Size: 721238
-MD5sum: b3c170ecd5492b9f5e90e6ea812458af
-SHA1: de29ff75512c3de2fc43529bb1185c7d4c22acfb
-SHA256: 72815930c6a4fba171b6c553cc7b5cc3f31a5ec6880d168e8cbda913b2d6d13c
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, com.creaturecoding.libcspreferences, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker
+Filename: debs/github.io.zerox1ng.h2_4.5.4_iphoneos-arm.deb
+Size: 793218
+MD5sum: 10ac9b6a891b428cce36b85f1e4f501e
+SHA1: f85818607ae9f2230439da0b76b6ba08b3503bb2
+SHA256: 89d872382c638c546848e6beec6e0449496c13b8949a690bede8472b6e9c3605
 Section: Tweaks
-Description: 💌隐私空间应用加密 💌防误触手势 💌h2Arc 💌右侧返回手势 💌状态栏自定义 💌网速 💌天气 💌免密码注销 💌上滑切换输入法 💌后台自定义 💌后台一键清理 💌锁屏自定义 💌光线传感器 💌快捷按压 💌电话帮手 💌微信助手 💌应用键盘高度 💌舒适流程胡动画 💌图标隐藏等一系列功能超实用功能 无论在全面屏还是非全面屏上，h2都是北半球最好用的手势，更是一把无情且强大的猪肉刀。全面兼容iOS(13-14),全面兼容iphone（6s-12pro max）
+Description: 💌稳定版 💌隐私空间应用加密
+ 💌防误触手势 💌h2Arc 💌右侧返回手势
+ 💌状态栏自定义 💌网速 💌天气
+ 💌免密码注销 💌上滑切换输入法 💌后台自定义
+ 💌后台一键清理 💌锁屏自定义  💌快捷按压
+ 💌电话帮手 💌微信助手 💌应用键盘高度 
+ 💌舒适动画 💌图标隐藏等一系列超实用功能 
+ 无论在全面屏还是非全面屏上，h2都是北半球最好用的手势
+ 更是一把无情且强大的猪肉刀。
+ 全面兼容iOS(13-14),全面兼容iphone（6s-12pro max）
 Author: lzsxcl
 Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.h2/
 Icon: https://zerox1ng.github.io/repo/DebIcon.png
-Installed-Size: 2600
+Installed-Size: 2992
 Name: h2
 SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.h2/
 
