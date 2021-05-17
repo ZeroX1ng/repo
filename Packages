@@ -1,23 +1,3 @@
-Package: com.jontelang.snapper2.packix
-Version: 2.5.11
-Architecture: iphoneos-arm
-Maintainer: Jonathan Winger-lang
-Depends: mobilesubstrate, firmware(>=12.1)
-Conflicts: com.jontelang.snapper, com.jontelang.snapper2
-Filename: debs/com.jontelang.snapper2.packix_2.5.11_iphoneos-arm.deb
-Size: 533640
-MD5sum: d47b733988f3a6567118654fa26a9bf5
-SHA1: d0bcd1e8a6e966664a3dad3406fe1ac01d232f56
-SHA256: 8793943b4514117763918e2799310ce60ad0f4c2da8440f0c6373d0d62fe20f6
-Section: Tweaks
-Description: Pin screenshots on the screen.
-Author: Jonathan Winger-lang
-Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.snapper2/
-Icon: https://zerox1ng.github.io/repo/DebIcon.png
-Installed-Size: 1840
-Name: Snapper 2
-SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.snapper2/
-
 Package: github.io.zeroX1ng.cnbigshotjb1
 Version: 0.0.1-48
 Architecture: iphoneos-arm
@@ -104,6 +84,25 @@ Name: 微信助手
 Priority: optional
 SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.MiYou/
 Sponsor: admin@25mao.com
+
+Package: github.io.zerox1ng.snapper2
+Version: 2.5.11
+Architecture: iphoneos-arm
+Maintainer: Jonathan Winger-lang
+Depends: mobilesubstrate, firmware(>=12.1)
+Filename: debs/github.io.zerox1ng.snapper2_2.5.11_iphoneos-arm.deb
+Size: 533636
+MD5sum: 1f34f5f3a0d940561c08b89993896777
+SHA1: 873165351c4c6f8baeb9f4269cd15e9e974ea52f
+SHA256: beb89ee7aad1d03aa1c55ff55d091228a9bc845fdc5f1d61f889332a11bf0b05
+Section: Tweaks
+Description: Pin screenshots on the screen.
+Author: Jonathan Winger-lang
+Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.snapper2/
+Icon: https://zerox1ng.github.io/repo/DebIcon.png
+Installed-Size: 1840
+Name: Snapper 2
+SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.snapper2/
 
 Package: github.io.zerox1ng.Wechat-Old
 Version: 1.5.9-6
