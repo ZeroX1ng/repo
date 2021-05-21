@@ -38,15 +38,15 @@ Priority: optional
 SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.Cydown/
 
 Package: github.io.zerox1ng.h2
-Version: 4.5.4
+Version: 4.5.6
 Architecture: iphoneos-arm
 Maintainer: lzsxcl
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, com.creaturecoding.libcspreferences, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker
-Filename: debs/github.io.zerox1ng.h2_4.5.4_iphoneos-arm.deb
-Size: 793218
-MD5sum: 10ac9b6a891b428cce36b85f1e4f501e
-SHA1: f85818607ae9f2230439da0b76b6ba08b3503bb2
-SHA256: 89d872382c638c546848e6beec6e0449496c13b8949a690bede8472b6e9c3605
+Filename: debs/github.io.zerox1ng.h2_4.5.6_iphoneos-arm.deb
+Size: 804570
+MD5sum: 8b360408d90283556efeb1113ecbe3a0
+SHA1: b7d1a6986bb4563fbbc6a2568a710a15a4381549
+SHA256: 87898e6286070cb450dac198972a51f7e308ac4fc5e975bd872cbc9ac824776f
 Section: Tweaks
 Description: 💌稳定版 💌隐私空间应用加密
  💌防误触手势 💌h2Arc 💌右侧返回手势
@@ -61,7 +61,7 @@ Description: 💌稳定版 💌隐私空间应用加密
 Author: lzsxcl
 Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.h2/
 Icon: https://zerox1ng.github.io/repo/DebIcon.png
-Installed-Size: 2992
+Installed-Size: 3016
 Name: h2
 SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.h2/
 
@@ -128,26 +128,26 @@ SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.We
 dev: 
 
 Package: github.io.zerox1ng.wechat
-Version: 1.0.1
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: Jan<237523005@qq.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: 
 Replaces: 
-Filename: debs/github.io.zerox1ng.wechat_1.0.1_iphoneos-arm.deb
-Size: 6793518
-MD5sum: dd64d65140857f080a37e663ba367305
-SHA1: a378c8b4393188b02e24a424088a0ca7685d7a54
-SHA256: 6da2f2cfbf14b6cba2d68865fa0a72b0166df68bc84cccf62f07d54a3a6a36c7
+Filename: debs/github.io.zerox1ng.wechat_1.0.3_iphoneos-arm.deb
+Size: 6418662
+MD5sum: 8b89a6f14b4592d4db8221a8295456b6
+SHA1: 788e97aac3c72c32e58fc0025736372db5fbb9a9
+SHA256: 9f5bd4c5e118d484404d3608e0c755e488370b6120d56ca735e043e985de4c0f
 Section: Tweaks
-Description: Wechat的全新重制版本
+Description: Jan的微信插件
 Author: Jan
-Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.Wechat/
+Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.wechat/
 Homepage: 
 Icon: https://zerox1ng.github.io/repo/DebIcon.png
 Name: WeChat
 Priority: optional
-SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.Wechat/
+SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.wechat/
 dev: 
 
 Package: ru.rejail.filza
