@@ -85,15 +85,15 @@ Name: h2
 SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.h2/
 
 Package: github.io.zerox1ng.MiYou
-Version: 3.0-6
+Version: 3.0-7
 Architecture: iphoneos-arm
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/github.io.zerox1ng.MiYou_3.0-6_iphoneos-arm.deb
-Size: 8852336
-MD5sum: 6ad72063be649ca7d70ae1e69918907d
-SHA1: 1625e7477fcc2639700ae72dab61d0920143783b
-SHA256: a1a093e40f6904c8ca6de6cad3b75c84f1d3cd600db7e6201b074683989f1bed
+Filename: debs/github.io.zerox1ng.MiYou_3.0-7_iphoneos-arm.deb
+Size: 4487672
+MD5sum: 4ff6021c136b3c8b209b9f136d83074e
+SHA1: 04db702237121febb9c00aeb6d1628c7ab27ff36
+SHA256: a7073c70f3c306dd5ba53527489d730bf1b0d07a660918c85d811799c22096bb
 Section: Tweaks
 Description: 微信助手-密友，老猫出品，必属精品。
 Author: Mao
