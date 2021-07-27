@@ -57,32 +57,23 @@ SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.Do
 Sponsor: admin@25mao.com
 
 Package: github.io.zerox1ng.h2
-Version: 4.5.6
+Version: 5.9.5
 Architecture: iphoneos-arm
 Maintainer: lzsxcl
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, com.creaturecoding.libcspreferences, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker
-Filename: debs/github.io.zerox1ng.h2_4.5.6_iphoneos-arm.deb
-Size: 804570
-MD5sum: 8b360408d90283556efeb1113ecbe3a0
-SHA1: b7d1a6986bb4563fbbc6a2568a710a15a4381549
-SHA256: 87898e6286070cb450dac198972a51f7e308ac4fc5e975bd872cbc9ac824776f
+Filename: debs/github.io.zerox1ng.h2_5.9.5_iphoneos-arm.deb
+Size: 867206
+MD5sum: a70f9e93edb28c0f069b1e54ebb13d06
+SHA1: 710ef3fd2db3c4dd4ca8c20d49cac6f20f83bb37
+SHA256: 183b42ad6eb9f0f0c2fec28ef7c47653f53891ce47390bc2410ffd1894fba2bb
 Section: Tweaks
-Description: 💌稳定版 💌隐私空间应用加密
- 💌防误触手势 💌h2Arc 💌右侧返回手势
- 💌状态栏自定义 💌网速 💌天气
- 💌免密码注销 💌上滑切换输入法 💌后台自定义
- 💌后台一键清理 💌锁屏自定义  💌快捷按压
- 💌电话帮手 💌微信助手 💌应用键盘高度 
- 💌舒适动画 💌图标隐藏等一系列超实用功能 
- 无论在全面屏还是非全面屏上，h2都是北半球最好用的手势
- 更是一把无情且强大的猪肉刀。
- 全面兼容iOS(13-14),全面兼容iphone（6s-12pro max）
+Description: 小体积，大实用
 Author: lzsxcl
-Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.h2/
+Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.MiYou/
 Icon: https://zerox1ng.github.io/repo/DebIcon.png
-Installed-Size: 3016
+Installed-Size: 3304
 Name: h2
-SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.h2/
+SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.MiYou/
 
 Package: github.io.zerox1ng.MiYou
 Version: 3.0-7
