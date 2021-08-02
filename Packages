@@ -138,27 +138,26 @@ SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.We
 dev: 
 
 Package: github.io.zerox1ng.wechat
-Version: 1.0.4
+Version: 1.0.8-1
 Architecture: iphoneos-arm
 Maintainer: Jan<237523005@qq.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: 
 Replaces: 
-Filename: debs/github.io.zerox1ng.wechat_1.0.4_iphoneos-arm.deb
-Size: 7128754
-MD5sum: d7393f77cb8d6fc77f3d62a4a0f649c5
-SHA1: 72d68ac65e98f8381267f9b45f1dba7f8b805ee9
-SHA256: c2087873c07a64dc54e8cc8493db9969cc8b3c8823d1d8907df577b38eb34027
-Section: 插件
-Description: 微信插件
+Filename: debs/github.io.zerox1ng.wechat_1.0.8-1_iphoneos-arm.deb
+Size: 4386164
+MD5sum: ba5fcfc49543dc63397c0efb0ae089a5
+SHA1: 836f98a173fdc12bb12d187dcaf1acf1649f87b0
+SHA256: 3c6d4f2c1c3ce749441bfe3385e47f41f2904f9c9d253bc136a46619305cbd3c
+Section: Tweaks
+Description: 微信插件，部分功能需自行联系作者购买授权
 Author: Jan
 Depiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.wechat/
-Homepage: 
 Icon: https://zerox1ng.github.io/repo/DebIcon.png
 Name: WeChat
 Priority: optional
 SileoDepiction: https://zerox1ng.github.io/repo/depictions/github.io.zerox1ng.wechat/
-dev: 
+dev: Jan
 
 Package: ru.rejail.filza
 Version: 3.8.2-4k
