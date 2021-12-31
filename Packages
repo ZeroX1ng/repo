@@ -1,3 +1,22 @@
+Package: 0xcc.woodfairy.koi
+Version: 1.1.7-4+debug
+Architecture: iphoneos-arm
+Maintainer: woodfairy & Litten
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.1.1)
+Filename: debs/0xcc.woodfairy.koi_1.1.7-4debug_iphoneos-arm.deb
+Size: 1064268
+MD5sum: 291b6a0e58216b82830d3ba6ca81285d
+SHA1: 067e7a34888e7429420180cca57f2583dc517fc9
+SHA256: 37005cd8c89d7d151f0ec10ef111b46b33fe15be4042caa0a852e3ece604312b
+Section: Tweaks
+Description: Colorize the force touch menu background based on the app icon color
+Author: woodfairy & Litten
+Depiction: https://repo.litten.love/depictions/Koi/index.html
+Icon: https://repo.litten.love/depictions/Koi/assets/icon.png
+Installed-Size: 1588
+Name: Koi 🐠
+SileoDepiction: https://repo.litten.love/depictions/Koi/index.json
+
 Package: github.io.zerox1ng.astolfo
 Version: 1.2.1-2+debug
 Architecture: iphoneos-arm
@@ -386,6 +405,25 @@ Author: Litten
 Installed-Size: 1684
 Name: Liddell 🫖
 
+Package: love.litten.lisa
+Version: 1.5.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: Litten
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: debs/love.litten.lisa_1.5.1-2debug_iphoneos-arm.deb
+Size: 837562
+MD5sum: 9625c109bd9501656a6cbda777b7dd2c
+SHA1: 32325f6d4683d14949183877c3d412deafc40aee
+SHA256: 7a57f9e84753217c159eff9d7f5db5cb36235e1309d31d45277d04a7a26653a7
+Section: Tweaks
+Description: Full incoming OLED notifications
+Author: Litten & Esquilli
+Depiction: https://repo.litten.love/depictions/Lisa/index.html
+Icon: https://repo.litten.love/depictions/Lisa/assets/icon.png
+Installed-Size: 1520
+Name: Lisa 💅🏻
+SileoDepiction: https://repo.litten.love/depictions/Lisa/index.json
+
 Package: love.litten.lobelias
 Version: 1.3.1-1+debug
 Architecture: iphoneos-arm
@@ -518,6 +556,25 @@ Icon: https://repo.litten.love/depictions/Violet/assets/icon.png
 Installed-Size: 2092
 Name: Violet 🎀
 SileoDepiction: https://repo.litten.love/depictions/Violet/index.json
+
+Package: love.litten.yuna
+Version: 1.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Litten
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.peterdev.libpddokdo, com.mrgcgamer.libgcuniversal
+Filename: debs/love.litten.yuna_1.0.2-1debug_iphoneos-arm.deb
+Size: 1023562
+MD5sum: f2f6e988e4134c3004b911d9cac90a2c
+SHA1: 4e79ee07f81acffe1c039be104b85d6814b9f752
+SHA256: 20cd336dd7d80ef679f9637449483674622a9376ede47667f1b15c35056a5858
+Section: Tweaks
+Description: Strawberry cupcakes
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Yuna/index.html
+Icon: https://repo.litten.love/depictions/Yuna/assets/icon.png
+Installed-Size: 1780
+Name: Yuna 🍃
+SileoDepiction: https://repo.litten.love/depictions/Yuna/index.json
 
 Package: ru.rejail.filza
 Version: 3.8.2-4k
